@@ -142,9 +142,17 @@ So, you want to do some trickery in the browser, eh? Josh will show you how in C
 
 Now that you're writing JavaScript in your Rails applications, let's put a test on it with Josh in Classroom B.
 
-### The Weekly Iteration (1:00 - 2:30)
+Work through the steps in this Capybara, Poltergeist, and Phantom.js (tutorial)[http://tutorials.jumpstartlab.com/topics/capybara/capybara_and_phantom.html].
 
-Join Josh in the Big Workspace to level up for the week.
+### Project Worktime (1:00 - 4:00)
+
+Focus on implementing on AJAX feature into your Pivots.
+
+### Resources
+
+* jQuery AJAX (docs)[https://api.jquery.com/jQuery.ajax/]
+* (Working with JavaScript in Rails)[http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html]
+* (form_for docs)[http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_for]
 
 ## 1502
 
@@ -174,7 +182,7 @@ Stick around with Rachel in Classroom C to design some databases and model someâ
 
 ### ActiveRecord in Sinatra (11:00 - 12:00 & 1:00 - 2:00)
 
-With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Classroom B. Find the outline [here](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/intro_to_active_record_in_sinatra.markdown). 
+With SalesEngine behind you, it's time to tackle ActiveRecord with Rachel in Classroom B.
 
 ### Traffic Spy Kickoff (2:00 - 2:30)
 
